@@ -19,4 +19,4 @@
   本作業中使用了《TensorFlow+Keras深度學習人工智慧實務應用》[書籍網址](https://www.books.com.tw/products/0010754327)
 
 - 程式碼聲明
-  本作業的程式碼（C/ASM）部分是修改自別人GitHub作業，該作業的網址為[參考網址](https://github.com/861664308/Tensorflow-Keras--/tree/5fcb19592d51a260dcee50db940b478567fe0e1b/%E4%B9%A6%E7%B1%8D%E6%BA%90%E7%A0%81)。
+  本作業的程式碼部分是修改自別人GitHub作業，該作業的網址為[參考網址](https://github.com/861664308/Tensorflow-Keras--/tree/5fcb19592d51a260dcee50db940b478567fe0e1b/%E4%B9%A6%E7%B1%8D%E6%BA%90%E7%A0%81)。
